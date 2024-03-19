@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.exe
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.deps.json
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.runtimeconfig.json
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.dll
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\bin\Debug\net7.0\Budget_Tracking_App.pdb
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.dll
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\refint\Budget_Tracking_App.dll
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.pdb
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\Budget_Tracking_App.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Documents\All Folders\FolderforCode\Budget_Tracking_App\obj\Debug\net7.0\ref\Budget_Tracking_App.dll
